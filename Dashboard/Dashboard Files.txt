@@ -1,0 +1,1 @@
+The features of dashboard are located in view, model, controller folders.
